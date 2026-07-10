@@ -6,7 +6,7 @@ Five hundred and thirty-two students in BIOL 3030 researched 476 scientists and 
 
 Every profile below was re-checked against primary sources before it was published here. Names, dates, and quotations were verified, and unsourceable quotations were removed rather than softened. Where a birth year could not be sourced, the entry says so rather than inventing one. Profiles that could not be repaired without inventing facts are not in this collection, and profiles whose subject belongs to the planned companion volumes on molecular and cell biology are held back.
 
-All profiles carry the byline "Anonymous Student", in keeping with the consent students gave.
+Profiles carry the byline "Anonymous Student" by default. A profile is credited by name only where the author asked to be named and the editors confirmed it.
 
 ---
 
@@ -92,7 +92,7 @@ All profiles carry the byline "Anonymous Student", in keeping with the consent s
 
 > William Kaelin stares at the transcript in his hands, the sight of a "C-" stinging like a physical wound.
 
-**[Barbara B. Kahn (dates unverified)](cut_profiles/Barbara_Kahn.md)**
+**[Barbara B. Kahn (dates unverified)](cut_profiles/Barbara_Kahn.md)**  ·  by Maggie Shifflett
 
 > Barbara Kahn was diagnosed with type 1 diabetes as a teenager growing up in Fairway, Kansas, in an era when nothing about managing the disease was fast.
 

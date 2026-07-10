@@ -35,9 +35,10 @@ the scientist it is really about. Previously about half were filed under the wro
 
 ## Bylines and consent
 
-Students consented to be listed as contributors in the book. That consent did not extend to publishing their names
-alongside their text in a public repository, so every profile here carries the byline "Anonymous Student".
-Named credit appears in the book's Contributors section.
+Students consented to be listed as contributors in the book. That consent does not by itself extend to publishing
+a student's name alongside their text in this public repository, so profiles here carry the byline "Anonymous Student"
+by default. A profile is credited by name only where the author asked to be named and the editors confirmed it; every
+contributor is also named in the book's Contributors section.
 
 ## License
 

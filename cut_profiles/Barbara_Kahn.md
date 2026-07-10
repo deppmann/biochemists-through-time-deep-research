@@ -1,6 +1,6 @@
 **Barbara B. Kahn (dates unverified)**
 
-*Profile by an Anonymous Student, BIOL 3030, University of Virginia*
+*Profile by Maggie Shifflett, BIOL 3030, University of Virginia*
 
 Barbara Kahn was diagnosed with type 1 diabetes as a teenager growing up in Fairway, Kansas, in an era when nothing about managing the disease was fast. There was no home glucose meter and no hemoglobin A1c test; without an emergency, a blood sugar order could take days to come back, by which time she had lost all context for what she had eaten or how she had exercised. The gap between her physiology and its measurement was maddening. Years later, as a Stanford undergraduate studying abroad in Fiesole, Italy, she walked into a local phlebotomy lab near her bus stop expecting the same delay, and instead had blood drawn that day and a result the next morning. It was, she later said, an eye-opening glimpse of how much more patient-oriented medicine could be.
 
