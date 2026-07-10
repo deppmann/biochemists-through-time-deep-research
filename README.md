@@ -6,7 +6,7 @@ Written by the students of BIOL 3030.
 
 ## What is here
 
-**[Further Reading: The Cutting-Room Floor](FURTHER_READING.md)** -- 62 student-written profiles of scientists
+**[Further Reading: The Cutting-Room Floor](FURTHER_READING.md)** -- 68 student-written profiles of scientists
 who were cut from the book for length and balance rather than for merit. Each has been re-checked against primary
 sources.
 
@@ -16,9 +16,9 @@ unedited, and they contain the tool's mistakes as well as its finds. Treat them 
 
 ## The numbers
 
-- 532 students researched 476 scientists and drafted 383 profiles.
-- 131 profiles, covering 188 scientists, are in the book.
-- 62 cut profiles are published here.
+- 532 students researched 476 scientists and drafted profiles of 390.
+- 133 profiles, covering 190 scientists, are in the book.
+- 68 cut profiles are published here.
 - Profiles whose subject belongs to the planned companion volumes on molecular biology and cell biology are held back.
 
 ## A note on accuracy

@@ -2,15 +2,15 @@
 
 Companion archive to *The Molecule Hunters: How Biochemists Decoded the Chemistry of Life*, edited by Christopher Deppmann and Abbie G. Oliver, University of Virginia.
 
-Five hundred and thirty-two students in BIOL 3030 researched 476 scientists and drafted 383 profiles. The book has room for 131 of them. These are profiles that were cut for length and balance rather than for merit.
+Five hundred and thirty-two students in BIOL 3030 researched 476 scientists and drafted profiles of 390. The book has room for 133 of them. These are profiles that were cut for length and balance rather than for merit.
 
-Every profile below was re-checked against primary sources before it was published here. Names, dates, and quotations were verified, and unsourceable quotations were removed rather than softened. Profiles that could not be repaired without inventing facts are not in this collection. Profiles whose subject belongs to the planned companion volumes on molecular and cell biology are held back.
+Every profile below was re-checked against primary sources before it was published here. Names, dates, and quotations were verified, and unsourceable quotations were removed rather than softened. Where a birth year could not be sourced, the entry says so rather than inventing one. Profiles that could not be repaired without inventing facts are not in this collection, and profiles whose subject belongs to the planned companion volumes on molecular and cell biology are held back.
 
 All profiles carry the byline "Anonymous Student", in keeping with the consent students gave.
 
 ---
 
-## 62 profiles
+## 68 profiles
 
 **[Daniel Anderson (1973-)](cut_profiles/Daniel_Anderson.md)**
 
@@ -92,6 +92,10 @@ All profiles carry the byline "Anonymous Student", in keeping with the consent s
 
 > William Kaelin stares at the transcript in his hands, the sight of a "C-" stinging like a physical wound.
 
+**[Barbara B. Kahn (dates unverified)](cut_profiles/Barbara_Kahn.md)**
+
+> Barbara Kahn was diagnosed with type 1 diabetes as a teenager growing up in Fairway, Kansas, in an era when nothing about managing the disease was fast.
+
 **[Jay Keasling (1964-)](cut_profiles/Jay_Keasling.md)**  ·  [deep-research dossier](Part_6/Jay_Keasling_Deep_Research.pdf)
 
 > Jay Keasling stands before a glowing monitor in his Berkeley laboratory, surrounded by a team of fourteen researchers.
@@ -99,6 +103,10 @@ All profiles carry the byline "Anonymous Student", in keeping with the consent s
 **[Irwin Kuntz (1935-)](cut_profiles/Irwin_Kuntz.md)**  ·  [deep-research dossier](Part_4/Irwin_Kuntz_Deep_Research.pdf)
 
 > The Department of Pharmaceutical Chemistry at UCSF in the early 1980s was a cramped landscape of early computational workstations and humming hardware.
+
+**[Mitchell Lazar (1956-)](cut_profiles/Mitchell_Lazar.md)**
+
+> Mitchell Lazar sits in a dimly lit lecture hall at MIT, listening to a professor describe how individual neurotransmitters shape the architecture of thought and emotion.
 
 **[Dorothy Jordan Lloyd (1889-1946)](cut_profiles/Dorothy_Jordan_Lloyd.md)**  ·  [deep-research dossier](Part_1/Dorothy_Jordan_Lloyd_Deep_Research.pdf)
 
@@ -144,6 +152,10 @@ All profiles carry the byline "Anonymous Student", in keeping with the consent s
 
 > The University of Washington lab is a tomb of nearly total darkness, save for the haunting, low-frequency red glow of safety lamps.
 
+**[Robert Perlman (1938-)](cut_profiles/Robert_Perlman.md)**
+
+> Earl Sutherland had shown that cyclic AMP carries a hormone's message into a cell, and won a Nobel Prize for it.
+
 **[Gregory Petsko (1948-)](cut_profiles/Gregory_Petsko.md)**  ·  [deep-research dossier](Part_1/Gregory_Petsko_Deep_Research.pdf)
 
 > In the fall of 1970, Gregory A. Petsko arrived at Oxford as a newly minted Rhodes Scholar.
@@ -155,6 +167,10 @@ All profiles carry the byline "Anonymous Student", in keeping with the consent s
 **[Joshua Rabinowitz (1972-)](cut_profiles/Joshua_Rabinowitz.md)**  ·  [deep-research dossier](Part_4/Joshua_Rabinowitz_Deep_Research.pdf)
 
 > In a sterile training room at Stanford, Joshua Rabinowitz stands over a swatch of synthetic skin, gripping a needle driver.
+
+**[Peter J. Ratcliffe (1954-)](cut_profiles/Peter_Ratcliffe.md)**
+
+> On August 5, 1992, at the Nuffield Department of Medicine in Oxford, Peter J. Ratcliffe holds a letter from the journal *Nature*.
 
 **[Frederic Middlebrook Richards (1925-2009)](cut_profiles/Frederic_Middlebrook_Richards.md)**  ·  [deep-research dossier](Part_1/Frederic_Middlebrook_Richards_Deep_Research.pdf)
 
@@ -180,6 +196,10 @@ All profiles carry the byline "Anonymous Student", in keeping with the consent s
 
 > The drawer opens.
 
+**[Philipp E. Scherer (dates unverified)](cut_profiles/Philipp_Scherer.md)**
+
+> At the Whitehead Institute in Cambridge, Philipp E. Scherer hunches over a cluster of 3T3-L1 cell culture plates.
+
 **[Stuart Schreiber (1956-)](cut_profiles/Stuart_Schreiber.md)**
 
 > The browser window refreshes again.
@@ -191,6 +211,10 @@ All profiles carry the byline "Anonymous Student", in keeping with the consent s
 **[David Shemin (1911-1991)](cut_profiles/David_Shemin.md)**
 
 > In 1945, within the quiet halls of Columbia University, David Shemin prepared a meal that would have horrified a modern safety board.
+
+**[Michael Joseph Sofia (1958-)](cut_profiles/Michael_Joseph_Sofia.md)**
+
+> The fluorescent lights in the Cornell lab buzz faintly, the kind of sound you stop noticing only after hours of standing still.
 
 **[Kamala Sohonie (1911-1998)](cut_profiles/Kamala_Sohonie.md)**  ·  [deep-research dossier](Part_5/Kamala_Sohonie_Deep_Research.pdf)
 

@@ -1,0 +1,17 @@
+**Robert Perlman (1938-)**
+
+*Profile by an Anonymous Student, BIOL 3030, University of Virginia*
+
+Earl Sutherland had shown that cyclic AMP carries a hormone's message into a cell, and won a Nobel Prize for it. What nobody yet knew was how far the message ran. At the National Institutes of Health in the late 1960s, Robert Perlman and Ira Pastan found cyclic AMP doing something no hormone was involved in at all: governing which genes a bacterium bothers to read. When *Escherichia coli* has glucose, it ignores lactose. Perlman and Pastan showed that glucose works by driving cyclic AMP down, and that supplying cyclic AMP restores the lactose machinery. A molecule discovered in animal tissue as a relay for adrenaline turned out to be, in bacteria, a signal of hunger, and a switch on the genome.
+
+Perlman trained as both physician and biochemist, and the two habits of mind never quite settled with each other. In the mid-1970s, working with J. Hochman, he stripped adrenal chromaffin cells out of the gland and asked whether they would still behave. They would. Acetylcholine, the neurotransmitter that in the intact animal arrives down a splanchnic nerve, made the isolated cells release their catecholamines, and the release depended on calcium and could be blocked with atropine, with hexamethonium, with tetracaine. The cell, torn from its context, still carried the whole apparatus of the stress response inside it. Physiology could be taken apart and would keep working, which is what a biochemist most wants to be true.
+
+But medicine treats one patient at a time, and Perlman grew uneasy with its habit of describing disease as a flaw in an otherwise well-made machine. Evolution, he came to argue, tells a different story, one of compromise rather than optimization. He put the mismatch plainly: "Evolutionary biologists analyze the properties of populations and the ways in which populations change over time, while physicians focus on the care of their individual patients."
+
+So he turned to the question of why disease persists at all. Why does natural selection leave humans open to aging, to autoimmune disorders, to lethal infection? His answer leans on life history theory, the idea that an organism has finite energy to divide among growth, reproduction, and repair. Pathogens face the same budget. An infection is not merely an invader; it is a population making strategic trade-offs inside a host. Seen that way, virulence becomes legible. A pathogen that spreads easily can afford to burn through its hosts; one that spreads poorly must keep its host walking around.
+
+Perlman applies the same logic to our own genome. Traits are not selected for health, or for longevity. They are selected for reproductive success, most of it early. Bodies are therefore maintained well enough to raise children, and not indefinitely. Damage accumulates because after a certain age selection stops paying attention. Aging follows, not as a malfunction but as the bill.
+
+Late in his career he became known for how plainly he wrote, stripping out equations, resisting jargon, editing *Perspectives in Biology and Medicine*. The instinct is the same one that took a chromaffin cell out of an adrenal gland to see what it would still do on its own. Take the thing apart. Find out what it actually requires. Evolution, he came to show, does not build for elegance. It builds for staying in the game long enough to matter.
+
+• • •
