@@ -1,0 +1,15 @@
+**John Tymoczko (1948-2019)**
+
+*Profile by an Anonymous Student, BIOL 3030, University of Virginia*
+
+A centrifuge hums steadily in a small biochemistry laboratory as John L. Tymoczko records enzyme assay results by hand. The work is repetitive and exacting, the kind of science that accumulates data rather than announces breakthroughs. His laboratory at Carleton College in Minnesota is modest, funded by teaching-college budgets rather than NIH grants. Most ambitious biochemists would have left years ago for major research centers. Tymoczko stayed, and his restraint became his rigor.
+
+His focus was enzyme regulation, how proteins respond to shifts in their chemical environment. Tymoczko studied phosphofructokinase (PFK), a critical enzyme in glucose metabolism that acts like a metabolic governor. PFK senses the energy state of the cell. When ATP is abundant (the cell is well-fed), the enzyme slows down, conserving resources. When ATP is scarce (the cell is starving), PFK accelerates, burning glucose faster to generate energy. Tymoczko measured these shifts with precision, tracking how the enzyme's activity responds to changes in ATP, AMP, and citrate concentrations.
+
+The mechanism is allosteric regulation, the enzyme exists in two conformational states, active and inactive, and small molecule signals flip the switch between them. PFK binds ATP in two places: at the active site (where it participates in catalysis) and at an allosteric site (where it signals the overall energy state). This design allows a single enzyme to "sense" energy availability and adjust its own speed accordingly.
+
+What made Tymoczko's work distinctive was not flashiness but clarity. He understood that mechanisms exist at multiple scales, the molecular level (which atoms interact), the kinetic level (how fast does the reaction go), and the physiological level (what does this do for the cell). Most researchers specialized in one. Tymoczko demanded understanding at all three.
+
+This integrated approach shaped his most enduring contribution: co-authoring the textbook *Biochemistry* alongside Lubert Stryer and Jeremy Berg. Rather than presenting biochemistry as a collection of pathways and protein structures, the textbook centered on mechanism and regulation, on how living systems exert control over chemistry. That philosophy, asking not just "what is this enzyme" but "how does the cell use this enzyme to make decisions", became the template for teaching biochemistry to a generation.
+
+At Carleton, Tymoczko mentored students in the same spirit, insisting they understand not just results but the reasoning behind experimental design. He demonstrated that ambitious science required neither major institutions nor glamorous resources, only questions worth answering, and the patience to answer them correctly.

@@ -1,0 +1,19 @@
+**Charles L. Brooks III (1956-)**
+
+*Profile by an Anonymous Student, BIOL 3030, University of Virginia*
+
+In the early 1980s, Charles L. Brooks III occupied the frontier between biochemical aspiration and computational possibility. He entered postdoctoral work at Harvard convinced that proteins were dynamic molecular systems, not static structures. X-ray crystallography revealed where atoms sit in a protein crystal, but it revealed nothing about how those atoms move, collide, and reorganize during function. Molecular dynamics simulations could address this, but the methodology was crude, the calculations unreliable.
+
+Brooks recognized that the bottleneck was not computation but methodology. Simulating protein behavior requires accurate force fields, mathematical descriptions of how atoms bond, bend, vibrate, and interact through van der Waals forces and electrostatic interactions. Brooks integrated multiple innovations: CHARMM (Chemistry at HARvard Macromolecular Mechanics), a comprehensive force field; implicit and explicit solvation models accounting for water's behavior around proteins; statistical mechanical ensembles that allow comparison between simulation and experiment.
+
+With these tools, protein motion became tractable. A tyrosine residue that appears rigid in a crystal structure is revealed through simulation to sample multiple rotameric states. Protein-ligand binding proceeds through a conformational selection mechanism: the ligand encounters the protein in one conformation, binds, and stabilizes that conformation. Understanding protein dynamics requires watching the motion itself, not just seeing the final bound state.
+
+This shift transformed drug discovery. Computational screening now uses molecular dynamics to predict how a potential drug molecule docks in a protein's binding pocket, undergoes induced-fit conformational changes, and achieves favorable binding free energy. Brooks's free-energy methods, thermodynamic integration, FEP (free energy perturbation), and TI (thermodynamic integration), enabled calculation of binding affinity for thousands of compounds before any synthesis or experimental testing. The cost and time of drug discovery plummeted.
+
+At the University of Michigan, Brooks's methods became foundational tools in pharmaceutical research. Companies worldwide integrated CHARMM into their discovery pipelines. His force fields were implemented in multiple software packages, AMBER, GROMACS, NAMD. The insight that protein motion mattered, that function emerges from dynamics, not just structure, shifted molecular biology from a static snapshot perspective to a kinetic, ensemble-based view.
+
+The deeper contribution was philosophical. Proteins are not rigid machines. They are flexible systems sampling multiple conformations. Biological function, enzyme catalysis, receptor activation, signal transduction, emerges from coordinated motions across nanosecond timescales. Understanding mechanism requires simulating this molecular choreography, which requires precise mathematical descriptions of intermolecular forces. Brooks showed that when force fields are accurate and computational power sufficient, protein behavior can be predicted from first principles.
+
+Decades later, as structural biologists use cryo-EM to capture multiple protein conformational states, and as machine learning approaches like AlphaFold predict protein structure from sequence, the foundations laid by Brooks remain central. Those predictions are powerful only when combined with molecular dynamics simulations that explore the conformational space proteins actually sample. His insight, that motion is mechanism, transformed protein science from structure determination into dynamics understanding, enabling precision medicine based on computed biochemistry.
+
+• • •

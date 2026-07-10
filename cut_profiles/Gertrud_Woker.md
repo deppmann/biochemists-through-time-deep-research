@@ -1,0 +1,9 @@
+**Gertrud Woker (1878-1968)**
+
+*Profile by an Anonymous Student, BIOL 3030, University of Virginia*
+
+In 1924, the Geneva Protocol was being drafted to ban chemical weapons in warfare, and a Swiss biochemist was providing the scientific ammunition. Gertrud Woker had spent years in her laboratory at the University of Bern studying the biochemistry of poison gases, documenting how compounds like phosgene and mustard gas destroyed lung tissue at the cellular level. Her research was not abstract. She translated enzyme kinetics and membrane chemistry into testimony that diplomats could understand, making the invisible damage of chemical warfare visible on the page.
+
+Woker earned her doctorate at Bern in 1903, one of the first women in Switzerland to do so, and rose to become an associate professor of chemistry in 1933, a rank the university's male faculty never let her surpass. Her scientific contributions ranged from work on catalysis and oxidation reactions to the toxicology of war gases, where she demonstrated that these agents attacked fundamental biochemical processes: disrupting cellular respiration, denaturing proteins, and destroying the lipid membranes that keep cells intact.
+
+But Woker understood that science alone would not stop the next war. She became one of the most vocal scientist-activists of the interwar period, helping found the Committee Against Scientific Warfare in 1924 and publishing extensively on the ethical obligations of chemists. Her 1932 book, *Der kommende Gift- und Brandkrieg*, warned with biochemical specificity about the horrors that chemical warfare would inflict on civilian populations, warnings that proved prescient within a decade. She spent her later years largely forgotten by the scientific establishment, her activism having cost her the academic recognition her research deserved. She died in Bern in 1968, having outlived the wars she tried to prevent by decades.

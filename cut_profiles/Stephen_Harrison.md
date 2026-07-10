@@ -1,0 +1,19 @@
+**Stephen C. Harrison (1943-)**
+
+*Profile by an Anonymous Student, BIOL 3030, University of Virginia*
+
+The lab is quiet, the kind of quiet that comes before anything is known. At Harvard, Stephen C. Harrison sits with sheets of diffraction data spread across a desk, dark spots scattered like constellations. The patterns come from X-rays fired through crystallized biological material, signals that promise shape, if someone has the patience to decode them. The room holds models, notes, and the accumulated evidence of a field still figuring out what it can even ask. When Harrison begins his work, there is only one protein structure in existence. Everything else is guesswork.
+
+What hangs in the air is uncertainty. Viruses are enormous by the standards of structural biology, flexible, unstable, and widely believed to be impossible to solve at atomic resolution. Even sympathetic colleagues regard the effort as quixotic. Harrison knows this. Years later, he would describe the attraction anyway, something like the romance of working out the structure of a virus, a problem that mattered to him more for its own sake than for any guarantee it would succeed. The risk is not just technical failure, but intellectual isolation: committing to questions that might never yield answers.
+
+Harrison's instincts are shaped early. Both of his parents are scientists, and evidence-based reasoning is the air he grows up breathing. He trains first in chemistry and physics, then biophysics, before committing himself to structural biology just as the field begins to coalesce. He does not bounce between institutions. Instead, he builds a long, stable scientific life at Harvard, sharing ideas and space with collaborators like Don C. Wiley. The work moves slowly. Years pass between meaningful advances. Harrison gravitates toward problems that require sitting with ambiguity, returning again and again to incomplete data.
+
+The turning point comes not as a single flash of insight but as accumulation. In the late 1970s, Harrison and his collaborators solve the structure of Tomato Bushy Stunt Virus, producing one of the earliest atomic-resolution views of an intact virus. The achievement does not close a chapter; it opens one. With structure comes mechanism. Shape begins to explain how viral proteins assemble, how they change during infection, how geometry governs biology. Harrison keeps pushing, extending the same logic to HIV proteins, to clathrin coats, to the machinery that moves chromosomes during cell division.
+
+At its core, the science rests on a simple premise: biological function follows form. Proteins and viruses are not abstract entities but physical objects, folded and constrained in three-dimensional space. By using X-ray crystallography, and later cryo-electron microscopy, Harrison shows how the precise arrangement of atoms determines what these molecules can and cannot do. A viral surface protein binds a receptor because of its shape; infection begins because of geometry. Structure is not decoration. It is explanation.
+
+Harrison does not frame this work as conquest. In reflective writing, he emphasizes how little was known when he began and how much remained opaque even after major successes. When cryo-electron microscopy matures, he adopts it without nostalgia, folding new methods into old questions. At his desk are diffraction patterns from decades past, printouts from machines long retired, notebooks filled with the incremental notes of someone who learned to see in the dark. The lab changes; Harrison returns to the same instruments, the same questions, the same insistence that evidence, not ambition, dictates speed.
+
+Back in the quiet room, the diffraction patterns do not announce what they mean. They never have. Harrison returns to them anyway, trusting that with enough care, shape will resolve itself into sense.
+
+• • •

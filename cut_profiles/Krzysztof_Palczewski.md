@@ -1,0 +1,15 @@
+**Krzysztof Palczewski (1957-)**
+
+*Profile by an Anonymous Student, BIOL 3030, University of Virginia*
+
+The University of Washington lab is a tomb of nearly total darkness, save for the haunting, low-frequency red glow of safety lamps. Thousands of bovine retinas, harvested from regional slaughterhouses, have been meticulously processed to yield a precious few milligrams of dark-adapted protein. Krzysztof Palczewski moves with practiced, rhythmic speed, his hands steady amidst the cold bite of laboratory ice. In this quiet gloom, he is hunting for the "holy grail" of biochemistry: the three-dimensional atomic structure of rhodopsin. For decades, these receptors have defied visualization, their oily, complex shapes slipping through the fingers of every scientist who tried to coax them into crystalline form.
+
+The stakes are far higher than a single publication. These proteins are the gatekeepers of human physiology, translating the external world, from the scent of a rose to the hit of a photon, into instructions for the cell. Because they are the primary targets for half of all modern medications, a failure to map their shape means physicians are working in the dark, guessing at the mechanics of the very receptors they are trying to treat. Without a structural map, the hunt for new treatments remains a slow, imprecise game of trial and error.
+
+Palczewski's urgency is rooted in a childhood in Wroclaw, Poland, where he idolized Maria Curie and learned to treat time as the only resource that cannot be replaced. This unyielding pace rejects the idea that biology is a series of impenetrable mysteries. "It's not magic that happens in our eyes. What happens is an extremely precise photochemistry," Palczewski insists. To him, the eye is a remarkably smart micromachine, an assembly of structural parts that follows the logic of thermodynamics.
+
+In August 2000, the machine finally yields its blueprints. The resulting map reveals seven alpha-helices spanning the cell membrane like a bundle of structural pillars. At the center lies a pocket holding a light-sensitive molecule called 11-cis-retinal, which acts as a molecular trigger. When a single photon strikes, this molecule isomerizes into an all-trans configuration, flipping its shape, which forces the protein's "ionic lock" to open. This mechanical shift allows the protein to bind the G protein transducin, cascading a chemical signal toward the brain that results in the perception of our surroundings.
+
+Today, at the University of California, Irvine, the dark rooms have been replaced by the high-speed pulse of infrared lasers. Palczewski no longer just maps the architecture; he uses two-photon imaging to watch it work in living tissue, tracking the biochemical "flicker" of sight as it unfolds in real-time. He remains the same man who once raced through Seattle, an athlete and chess player obsessed with the next strategic move, finding relief jet skiing on open water between experiments. Even as he manages world-class teams, he still looks for the same kind of unglamorous, exacting labor that first pulled a protein from the dark.
+
+• • •

@@ -1,0 +1,19 @@
+**Chaim Weizmann (1874-1952)**
+
+*Profile by an Anonymous Student, BIOL 3030, University of Virginia*
+
+A jar of maize meal sits on a workbench in Manchester, ordinary enough to belong in a kitchen. Chaim Weizmann treats it like a map. He prepares cultures again and again, subculturing them "about 100 to 150 times," watching for the ones that ferment with force and speed, then leaning in for a blunt, human metric: a "pronounced smell of butyl alcohol." It's a sensory sign that the invisible chemistry is moving in the right direction, that a living broth is turning starch into something more useful than food.
+
+The risk is practical before it's philosophical. A fermentation that behaves beautifully in a small vessel can collapse when scaled, turning weeks of work into sour waste. In Weizmann's world, the uncertainty isn't only scientific; it's institutional and personal. He has already been dismissed by William Perkin Jr. in 1912 after a salary dispute, a reminder that research lives inside budgets and egos as much as inside flasks. Even his own autobiography frames his life as a split ambition, a running tension between his scientific work and his growing political ambitions, as if he expects every breakthrough to carry a price tag in human terms.
+
+What happens next pulls his bench work into the machinery of war. He patents a method for bacterial fermentation of carbohydrate materials, maize, rice, potatoes, paired with a disciplined routine of selection through repeated subculture. The story that later gets told includes a dramatic label, an "eureka moment" in 1914 when he decides to isolate starch-degrading bacteria from maize meal, but the real drama sits in the method: persistence, iteration, and the controlled evolution of a process that can hold steady under pressure. In Weizmann's telling, the bacteria themselves become companions rather than tools, patient allies he returns to again and again over years of work.
+
+The science is deceptively simple to state and hard to master. In solvent-producing fermentation, microbes break down carbohydrates without oxygen to make energy, using pathways like pyruvate decarboxylation and acetone-butanol-ethanol (ABE) fermentation. They keep their internal chemistry balanced (maintaining NAD+ regeneration for glycolysis to continue) by sending carbon into different end products, some more reduced like butanol (which requires heavy reduction of acetyl-CoA), and some more oxidized like acetone. It's a microbial solution to a redox bookkeeping problem: cells must dispose of excess reducing equivalents (NADH) while generating ATP for survival. Weizmann's process, using Clostridium acetobutylicum, turns starch-rich feedstocks into a mix of solvents that, in wartime, become industrial lifelines.
+
+Scale, though, is where elegance meets failure. At Holton Heath in early 1916, "seven out of ten fermentations were failures," and the discarded batches were "discharged onto the neighbouring heath," to the anger of nearby residents. The vats don't care about reputations. They bubble or stall. They smell sweet or wrong. Across the ocean, a Toronto plant shows what success looks like when conditions finally cooperate: 3,958 fermentations inoculated, only 24 failures, mostly early.
+
+Even after the emergency passes, the microbes keep causing trouble. When a plant restarts in 1923 and is later sued for patent infringement, testimony suggests a competing strain "seemed to be identical to the Weizmann strain," possibly through contamination, a reminder that in biology, ownership can be as slippery as a culture dish.
+
+But the bench scene remains the cleanest portrait: the maize meal, the repeated transfers, the stubborn attention to the smell that signals transformation. Weizmann learned to read living chemistry the way others read ledgers, one subculture at a time, turning uncertainty into output, and making friends, improbably, with bacteria.
+
+• • •

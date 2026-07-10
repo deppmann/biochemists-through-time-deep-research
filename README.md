@@ -1,37 +1,44 @@
-# Biochemists Through Time — Deep Research Reports
+# The Molecule Hunters -- Open Archive
 
-Supplementary research reports for *Biochemists Through Time: Pioneers, Pathways, and Possibilities*, edited by Christopher Deppmann, University of Virginia.
+Companion archive to *The Molecule Hunters: How Biochemists Decoded the Chemistry of Life*,
+edited by Christopher Deppmann and Abbie G. Oliver, University of Virginia.
+Written by the students of BIOL 3030.
 
-These in-depth research reports were prepared by BIOL 3030 students as part of their study of the scientists profiled in the book. Each report explores a scientist's contributions, historical context, and lasting impact in greater detail than the profile itself allows.
+## What is here
 
-## How to Use
+**[Further Reading: The Cutting-Room Floor](FURTHER_READING.md)** -- 62 student-written profiles of scientists
+who were cut from the book for length and balance rather than for merit. Each has been re-checked against primary
+sources.
 
-Reports are organized by Part, matching the book's structure:
+**[Index of Deep Research Dossiers](INDEX.md)** -- 343 raw research dossiers, in the Part_1 through Part_6 folders.
+These are the working documents students produced with an AI research tool before writing their profiles. They are
+unedited, and they contain the tool's mistakes as well as its finds. Treat them as leads, not as sources.
 
-- **[Part I — Founders](#part-i--founders)** — Pioneers who established biochemistry as a discipline (103 scientists)
-- **[Part II — Discoverers](#part-ii--discoverers)** — Scientists who cracked the genetic code (72 scientists)
-- **[Part III — Methodologists](#part-iii--methodologists)** — Innovators whose tools and techniques made discovery possible (23 scientists)
-- **[Part IV — Translators](#part-iv--translators)** — Scientists who brought basic biochemistry to the clinic and bedside (73 scientists)
-- **[Part V — Challengers](#part-v--challengers)** — Researchers who overcame scientific or social barriers (19 scientists)
-- **[Part VI — The Next Wave](#part-vi--the-next-wave)** — Rewriting life's code today (54 scientists)
+## The numbers
 
-## About This Collection
+- 532 students researched 476 scientists and drafted 383 profiles.
+- 131 profiles, covering 188 scientists, are in the book.
+- 62 cut profiles are published here.
+- Profiles whose subject belongs to the planned companion volumes on molecular biology and cell biology are held back.
 
-*Biochemists Through Time* features approximately 414 biographical profiles of biochemists spanning four centuries. The deep research reports in this repository provide primary source analysis, detailed biographical narratives, and contextual exploration of each scientist's work and era.
+## A note on accuracy
 
-Each report is authored by a University of Virginia student and represents original research into the life, work, and scientific contributions of a featured biochemist. These reports served as primary source material for the biographical profiles in the book.
+These profiles and dossiers were produced with AI assistance, and the tool hallucinated. Before publishing this
+archive we audited every profile: we verified each scientist's name and dates, checked every factual claim we could,
+and removed every quotation we could not source. Several profiles turned out to be about a different scientist than
+their filename claimed. Several carried invented birth years, invented mentors, and invented quotations.
 
-## Project Information
+Profiles that needed too many corrections to be trusted were withheld rather than published.
 
-- **Editor**: Christopher Deppmann, University of Virginia
-- **Course**: BIOL 3030 (Biochemistry, Molecular Biology & Cell Biology)
-- **Academic Year**: 2025–2026
-- **Institution**: University of Virginia
+The raw dossiers have **not** been fact-checked. They have only been re-identified, so that each file is named for
+the scientist it is really about. Previously about half were filed under the wrong name. Read them accordingly.
+
+## Bylines and consent
+
+Students consented to be listed as contributors in the book. That consent did not extend to publishing their names
+alongside their text in a public repository, so every profile here carries the byline "Anonymous Student".
+Named credit appears in the book's Contributors section.
 
 ## License
 
-The deep research reports are provided as supplementary educational materials. Copyright remains with the University of Virginia and contributing students.
-
----
-
-**For the complete book**, visit [*Biochemists Through Time* official site](https://uva.edu) or contact Christopher Deppmann at cdeppmann@virginia.edu.
+Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0). See [LICENSE](LICENSE).

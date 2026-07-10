@@ -1,0 +1,15 @@
+**Gregorio Weber (1916-1997)**
+
+*Profile by an Anonymous Student, BIOL 3030, University of Virginia*
+
+The ship groans against the swells of the North Atlantic, a steel speck in a forty-four-day crawl toward England. Gregorio Weber sits in his cramped quarters, the air thick with the smell of diesel and salt. Outside, German U-boat wolf packs haunt the gray expanse, but inside, Weber is focused on a different kind of survival. He is a medical doctor from Argentina with a daunting realization: to understand the biology of light, he must first master the language of physics. With only the books in his trunk, he spends the voyage teaching himself the advanced mathematics of molecular rotation.
+
+This intellectual isolation marks a radical departure from the descriptive biology of his predecessors. For Weber, the stakes are epistemological as much as academic. He is convinced that biological mysteries will only yield to the cold rigor of physical chemistry. "I feel that a knowledge, as deep as possible, of the physical principles concerned is indispensable," he writes in his 1947 doctoral thesis.
+
+By the late 1940s at Cambridge, Weber's quest for precision takes a physical toll. He works in a pitch-black room, hunched over a makeshift instrument powered by a military searchlight, using a visual-compensation technique that turns his own eye into the only detector he has. He does not have modern electronic sensors; he has his own eyes. He is literalizing his scientific mission, sacrificing his own vision to see what remains hidden within a protein.
+
+His focus is fluorescence, the glow emitted by certain molecules after they absorb light. In the laboratory, Weber uses this glow as a "molecular speedometer." When a small fluorescent probe binds to a large protein, its rotation slows, and the light it emits becomes polarized. By measuring this change, Weber can track how molecules interact in real-time. He applies thousands of atmospheres of pressure to proteins, watching through heavy vessels as their subunits drift apart.
+
+While the scientific establishment of the 1960s views proteins as rigid, static "statues" revealed by X-ray crystallography, Weber's data suggests a more chaotic reality. He proves that proteins are dynamic ensembles that "breathe," their structures fluctuating on a nanosecond scale to allow small molecules like oxygen to pass through their interiors.
+
+The cost of these insights is visible years later at the University of Illinois, where he is rarely seen without dark sunglasses, even indoors. The grueling hours in the Cambridge darkroom eventually led to detached retinas and corneal transplants, leaving him with a severe sensitivity to the very light he spent his life quantifying. He remains a quiet transformer, a man who traded his sight for the ability to show the world that life, at its most fundamental level, is never still.

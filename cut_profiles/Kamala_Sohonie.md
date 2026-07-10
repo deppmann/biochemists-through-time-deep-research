@@ -1,0 +1,9 @@
+**Kamala Sohonie (1911-1998)**
+
+*Profile by an Anonymous Student, BIOL 3030, University of Virginia*
+
+The letter sits on the director's desk at the Indian Institute of Science, its pages stiff with formality barely containing the anger beneath. Kamala Sohonie has cosigned it with two other female students. Together, they have put into writing what their daily lives already made clear: women are not welcome here. The corridors offer no housing, the Calendar offers no acknowledgement, the male classmates offer no dignity. The discrimination is systemic, not outright, no mention made in institutional records of facilities for female students. Parents hesitate to send daughters to an institute that offers them nothing.
+
+Sohonie broke through anyway, and her method of breaking through was to let the science speak louder than the prejudice. At Cambridge, she worked under Derek Richter and Robin Hill, studying cytochrome oxidase, the terminal enzyme in the respiratory chain, the same system that Hans Krebs and others profiled in this book were mapping from the metabolic side. In 1939, she co-authored a paper demonstrating that flowering plant tissues could show the cytochrome spectrum, direct evidence that plants use the same respiratory enzymes as animals. The result was more than a data point; it was her answer to every committee that had questioned whether she belonged.
+
+She became the first Indian woman to earn a doctorate in science from Cambridge. Back in India, she returned to nutrition research, studying the protein content of local foods at a time when malnutrition was a public health crisis. Like Yellapragada SubbaRow, profiled elsewhere in this book, she navigated institutional indifference and colonial barriers with a stubbornness that was less defiance than discipline. The doors she opened at IISc did not stay open automatically, but they stayed open, and others followed through.

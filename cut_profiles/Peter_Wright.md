@@ -1,0 +1,17 @@
+**Peter E. Wright (1943-)**
+
+*Profile by an Anonymous Student, BIOL 3030, University of Virginia*
+
+The computer monitor in the darkened NMR suite at the Scripps Research Institute displays a scattered mess of data. Peter Wright studies the screen, his eyes tracking the "dispersed" peaks that should, by all laws of biochemistry, be sharp and orderly. He is looking at the C-terminal fragment of p53, a protein vital for suppressing tumors, but the image on the screen resembles a smudge rather than a blueprint. To a conventional crystallographer, this would look like a failure, the signature of a protein that has unraveled into a useless, "denatured" heap. Wright, however, does not reach for the trash bin. He adjusts the display, sensing that the chaos on the screen isn't a mistake, but a message.
+
+The tension in the lab is quiet but deep. For nearly a century, the central dogma of biology has dictated that a protein's sequence determines its rigid, three-dimensional structure, and that structure determines its function. Without a fixed shape, a protein was thought to be a broken machine. But Wright's magnets are whispering a different story: the p53 fragment is completely unfolded, yet it is perfectly healthy and performing its job. He is beginning to realize that the textbook "lock and key" model is incomplete. Some of the most important molecules in the human body might not be locks at all, but shape-shifters.
+
+"Back in the 1990s, the dogma was that all proteins function through their 3D structures, but we had three or four examples in the lab of proteins that were not structured but were fully functional," Wright recalled in an interview with Scripps Research.
+
+This realization marks the birth of the study of Intrinsically Disordered Proteins (IDPs). In introductory biochemistry, proteins are often taught as origami, precisely folded ribbons and sheets that fit together like gears. Wright proved that a massive class of proteins exists as "functional chaos," behaving more like wet noodles than rigid tools. These proteins are flexible and floppy, allowing them to wrap around multiple different partners in the cell. This "disorder" is actually a sophisticated biological advantage, enabling a single protein to act as a central hub in complex signaling networks, folding into a shape only at the moment it touches its target.
+
+Wright's career has been defined by this willingness to listen to the "breathing" of molecules. Years earlier, at the University of Sydney, he had fought his own department to use a temperamental, vacuum-tube-powered spectrometer to study biology, a move his peers viewed as a physicist's distraction. That same stubbornness sustained him through a decade of skepticism from colleagues who insisted his "disordered" proteins were merely degraded samples.
+
+Today, the smudge on the screen is no longer seen as a failure. It is recognized as the dynamic reality of life at the molecular level. Wright's work shifted the focus of the field from static snapshots to a cinematic view of proteins in motion. He leaves the reader not with a rigid statue of a molecule, but with the image of a protein as a "Swiss Army knife" whose tools only appear when the work begins.
+
+• • •

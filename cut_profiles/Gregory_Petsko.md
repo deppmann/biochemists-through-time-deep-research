@@ -1,0 +1,13 @@
+**Gregory Petsko (1948-)**
+
+*Profile by an Anonymous Student, BIOL 3030, University of Virginia*
+
+In the fall of 1970, Gregory A. Petsko arrived at Oxford as a newly minted Rhodes Scholar. He had completed his undergraduate degree in chemistry at Princeton, but his deeper undergraduate passion had been classics, and he came to England intending to continue studying Greek and Roman literature rather than science.
+
+That plan did not survive an unexpected setback soon after he arrived, and Petsko found himself in an unfamiliar position: a Rhodes Scholar with no advisor, no clear project, and no academic home in the classics after all. He turned instead to David Phillips, the Oxford crystallographer whose 1965 solution of the structure of lysozyme, the first enzyme ever solved, had launched the field of structural enzymology. Despite having no formal training in crystallography, Petsko persuaded Phillips to take him on. That improbable pairing redirected Petsko's entire career. Over the next three years, he learned the art of X-ray crystallography from the ground up, acquiring the technical skills that would define his scientific work.
+
+That unexpected pivot ultimately shaped decades of research in structural enzymology. In 2000, Petsko co-authored a Science paper that determined atomic-resolution structures of multiple intermediates in the catalytic cycle of cytochrome P450cam. Rather than portraying enzymes as static objects, the study revealed catalysis as a dynamic process involving coordinated structural changes and organized networks of water molecules that help drive chemical reactions. The work demonstrated how molecular structure could reveal biochemical mechanisms, connecting physical form directly to biological function.
+
+As Petsko's scientific reputation grew, so did his willingness to engage publicly with the broader implications of science. He took on leadership roles within the biochemistry community and later directed a major Alzheimer's disease research institute, arguing that scientists must communicate not only discoveries but also urgency. He framed neurodegenerative disease as a looming societal crisis and emphasized the need for long-term research investment and public understanding. Throughout his career, Petsko's early training in the humanities continued to shape how he thought and spoke, reinforcing his belief that scientific reasoning is inseparable from culture, language, and public discourse.
+
+What began as a Rhodes Scholarship meant to deliver a classicist to Oxford instead delivered a structural biologist to crystallography, and ultimately to a career defined by both molecular insight and a commitment to science's role in society.
