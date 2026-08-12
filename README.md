@@ -4,6 +4,17 @@ Companion archive to *The Molecule Hunters: How Biochemists Decoded the Chemistr
 edited by Christopher Deppmann and Abbie G. Oliver, University of Virginia.
 Written by the students of BIOL 3030.
 
+## Get the book -- free
+
+The full First Edition is free to download:
+
+- **[EPUB](https://github.com/deppmann/biochemists-through-time-deep-research/releases/download/v1.0/The_Molecule_Hunters.epub)** (46 MB) -- for Kindle, Apple Books, Kobo, and most e-readers
+- **[PDF](https://github.com/deppmann/biochemists-through-time-deep-research/releases/download/v1.0/The_Molecule_Hunters.pdf)** (93 MB) -- the 6 x 9 print-layout edition, 404 pages
+
+Also available on Kindle and other ebook stores. Licensed under
+[CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/): share and adapt for any
+non-commercial purpose with credit to the editors and contributing student authors.
+
 ## What is here
 
 **[Further Reading: The Cutting-Room Floor](FURTHER_READING.md)** -- 68 student-written profiles of scientists
